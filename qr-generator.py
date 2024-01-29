@@ -1,7 +1,7 @@
 # animated_qrcode.py
 '''
-Simpl QR code generator
-Change the variable qrcode to reflect the
+Simple QR code generator
+Run and follow the prompts for a file and name. QR code will be saved in the same folder as the script.
 '''
 import segno
 from urllib.request import urlopen
